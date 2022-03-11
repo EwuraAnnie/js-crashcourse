@@ -1,0 +1,15 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #012345;
+    margin: 20px;
+    /* border-radius: 50%; */
+    box-shadow: 5px 5px 20px 20px rgba(0, 0, 0, 0.5);
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: teal;
+    height: 600px;
+    align-items: baseline;
+}
